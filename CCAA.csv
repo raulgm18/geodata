@@ -1,0 +1,20 @@
+Nombre,Lat,Long,CCAA,NOMBRE_CODE,INE_CCAA,Población
+Andalucía,"37,5442706","-4,7277528",AN,Andalucía,1,8.414.240
+Aragón,"41,5976275","-0,9056623",AR,Aragón,2,1.319.291
+Asturias,"43,3613953","-5,8593267",AS,"Asturias, Principado de",3,1.022.800
+Baleares,"39,3587759","2,7356328",IB,"Balears, Illes",4,1.149.460
+Canarias,"28,2915637","-16,6291304",CN,Canarias,5,2.153.389
+Cantabria,"43,1828396","-3,9878427",CB,Cantabria,6,581.078
+Castilla-La Mancha,"39,2795607","-3,097702",CM,Castilla - La Mancha,8,2.032.863
+Castilla y León,"41,8356821","-4,3976357",CL,Castilla y León,7,2.399.548
+Cataluña,"41,5911589","1,5208624",CT,Cataluña,9,7.675.217
+Ceuta,"35,8893874","-5,3213455",CE,Ceuta,18,84.777
+C. Valenciana,"39,4840108","-0,7532809",VC,Comunitat Valenciana,10,5.003.769
+Extremadura,"39,4937392","-6,0679194",EX,Extremadura,11,1.067.710
+Galicia,"42,5750554","-8,1338558",GA,Galicia,12,2.699.499
+Madrid,"40,4167754","-3,7037902",MD,"Madrid, Comunidad de",13,6.663.394
+Melilla,"35,2922775","-2,9380973",ML,Melilla,19,86.487
+Murcia,"37,9922399","-1,1306544",MC,"Murcia, Región de",14,1.493.898
+Navarra,"42,6953909","-1,6760691",NC,"Navarra, Comunidad Foral de",15,654.214
+País Vasco,"42,9896248","-2,6189273",PV,País Vasco,16,2.207.776
+La Rioja,"42,2870733","-2,539603",RI,"Rioja, La",17,316.798
